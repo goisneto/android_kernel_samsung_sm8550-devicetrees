@@ -1,7 +1,7 @@
 /dts-v1/;
 
 / {
-	model = "Samsung GTS9WIFI PROJECT (board-id,02)";
+	model = "Samsung GTS9uWIFI PROJECT (board-id,02)";
 	compatible = "qcom,kalama-mtp", "qcom,kalama", "qcom,mtp";
 	qcom,msm-id = <0x218 0x20000 0x207 0x20000 0x207 0x10000 0x218 0x10000>;
 	qcom,board-id = <0x10008 0x02>;
