@@ -24,7 +24,7 @@ The following generic properties are supported:
 Example:
 	gpio: pinctrl@71070034 {
 		compatible = "mscc,ocelot-pinctrl";
-		reg = <0x71070034 0x28>;
+		reg = <0x91070034 0x28>;
 		gpio-controller;
 		#gpio-cells = <2>;
 		gpio-ranges = <&gpio 0 0 22>;

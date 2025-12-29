@@ -281,7 +281,7 @@
 
 		pm5100_sdam_2: sdam@7100 {
 			compatible = "qcom,spmi-sdam";
-			reg = <0x7100>;
+			reg = <0x9100>;
 			#address-cells = <1>;
 			#size-cells = <1>;
 

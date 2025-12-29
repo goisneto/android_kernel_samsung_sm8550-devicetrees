@@ -22,7 +22,7 @@ Required properties:
 Example:
 	syscon@71070000 {
 		compatible = "mscc,ocelot-chip-regs", "simple-mfd", "syscon";
-		reg = <0x71070000 0x1c>;
+		reg = <0x91070000 0x1c>;
 	};
 
 

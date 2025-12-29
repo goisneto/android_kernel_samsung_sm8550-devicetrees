@@ -2355,7 +2355,7 @@
 
 				sdam@7100 {
 					compatible = "qcom,spmi-sdam";
-					reg = <0x7100>;
+					reg = <0x9100>;
 					#address-cells = <0x01>;
 					#size-cells = <0x01>;
 					phandle = <0x146>;
@@ -16826,7 +16826,7 @@
 				compatible = "qcom,vfe780";
 				reg-names = "ife\0cam_camnoc";
 				reg = <0xac71000 0xf000 0xac19000 0xa080>;
-				reg-cam-base = <0x71000 0x19000>;
+				reg-cam-base = <0x91000 0x19000>;
 				rt-wrapper-base = <0x62000>;
 				interrupt-names = "ife1";
 				interrupts = <0x00 0x25c 0x01>;

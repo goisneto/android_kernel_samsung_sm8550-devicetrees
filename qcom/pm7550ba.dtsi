@@ -27,7 +27,7 @@
 
 		pm7550ba_sdam_2: sdam@7100 {
 			compatible = "qcom,spmi-sdam";
-			reg = <0x7100>;
+			reg = <0x9100>;
 		};
 
 		pm7550ba_sdam_3: sdam@7200 {
